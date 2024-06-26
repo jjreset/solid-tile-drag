@@ -30,5 +30,5 @@ module.exports = {
     }),
     json(),
   ],
-  external: ['react', 'react-dom'],
+  external: ['solid', 'solid-js'],
 };
